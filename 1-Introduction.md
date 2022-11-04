@@ -7,7 +7,9 @@
  
  ### Several DBMS Softwares
  - Basically these several DBMS softwares divided into two parts-
+   
    1.Relational Database Managemnet System
+   
    2.Non-Relational Database Management System 
    
    
@@ -24,13 +26,13 @@
      2.SQL Server by microsoft
      3.Oracle
      
-## :raised_hand_with_fingers_splayed: I wiil Learn here SQL with MYSQL.
+##   :raised_hand_with_fingers_splayed: I wiil Learn here SQL with MYSQL.
 
-## Non-Relational Databases
+## 2.Non-Relational Databases
 - Non-Relational Database sometimes reffered as "NoSQL(Not Only SQL)".
 - In Non-Relational Databases, We don't have table or relationship.
 
-##:raising_hand_man:  We all have a Question? :raising_hand_woman:
+##   :raising_hand_man:  We all have a Question? :raising_hand_woman:
 - SQL or SEQUEL? 
 - Sometimes we pronunciate SQL to SQUEL :sweat_smile:
 
